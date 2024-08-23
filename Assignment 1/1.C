@@ -1,6 +1,7 @@
 //Print sum and average of three numbers
 #include<stdio.h>
 float num1,num2,num3;
+float sum,average;
 printf("Enter the first number");
 scanf("%d",&num1);
 printf("enter the second number");
