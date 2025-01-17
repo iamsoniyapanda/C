@@ -1,7 +1,6 @@
 //Write a program to store marks for n number of student in an array and print their marks. 
 #include <stdio.h> 
 int main() { 
-    printf("ROHAN DAS-MCA-A-1-Roll-42\n"); 
     int n, i; 
     printf("Enter the number of students: "); 
     scanf("%d", &n); 
