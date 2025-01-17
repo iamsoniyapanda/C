@@ -1,5 +1,6 @@
 // Write a program to insert an element in an array in a particular position. 
     #include<stdio.h>
+    int main(){
     int n, i, pos, value; 
     printf("Enter the number of elements: "); 
     scanf("%d", &n); 
